@@ -3,16 +3,22 @@
 <head>
     <meta charset="utf-8"/>
     <title>Ветки</title>
-    <style>
-        body {
-            box-sizing: border-box;
-            margin: 0;
-        }
-    </style>
+    <link rel="stylesheet" href="css/main-css.css" />
 </head>
 <body>
-    <h1>Работа с ветками.</h1>
-    <p>В этом сайте рассматривается работа с ветками.</p>
-    <p>Данная статья добавлена в целях эксперимента.</p>
+    <header>
+        <h1>Работа с ветками.</h1>
+        <nav>
+            <ul>
+                <li><a href="content/page-2.php">Страница 2</a></li>
+                <li><a href="content/page-3.php">Страница 3</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Страница 1</h2>
+        <p>Содержимое страницы ==> 1 <==</p>
+    </main>
+    <footer>Копирайт.</footer>
 </body>
 </html>
