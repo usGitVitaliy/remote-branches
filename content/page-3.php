@@ -10,8 +10,8 @@
     <h1>Работа с ветками.</h1>
     <nav>
         <ul>
-            <li><a href="content/page-1.php">Страница 1</a></li>
-            <li><a href="content/page-2.php">Страница 2</a></li>
+            <li><a href="/index.php">Страница 1</a></li>
+            <li><a href="page-2.php">Страница 2</a></li>
         </ul>
     </nav>
 </header>
