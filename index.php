@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8"/>
     <title>Ветки</title>
-    <link rel="stylesheet" href="css/main-css.css" />
+    <link rel="stylesheet" href="css/m-css.css" />
 </head>
 <body>
     <header>
