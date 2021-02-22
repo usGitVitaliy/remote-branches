@@ -12,13 +12,14 @@
         <ul>
             <li><a href="/index.php">Страница 1</a></li>
             <li><a href="page-2.php">Страница 2</a></li>
-            <li><a href="page-4-junior.php">Страница 4</a></li>
+            <li><a href="page-3.php">Страница 3</a></li>
         </ul>
     </nav>
 </header>
 <main>
-    <h2>Страница 3</h2>
-    <p>Содержимое страницы ==> 3 <==</p>
+    <h2>Страница 4</h2>
+    <p>Содержимое страницы ==> 4 <==</p>
+    <p>Станица создана сотрудником Junior</p>
 </main>
 <footer>Копирайт.</footer>
 </body>
