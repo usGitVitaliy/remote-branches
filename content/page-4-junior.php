@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8"/>
     <title>Ветки</title>
-    <link rel="stylesheet" href="/css/m-css.css" />
+    <link rel="stylesheet" href="/css/main-css.css" />
 </head>
 <body>
 <header>
@@ -11,14 +11,15 @@
     <nav>
         <ul>
             <li><a href="/index.php">Страница 1</a></li>
+            <li><a href="page-2.php">Страница 2</a></li>
             <li><a href="page-3.php">Страница 3</a></li>
-            <li><a href="page-4-junior.php">Страница 4</a></li>
         </ul>
     </nav>
 </header>
 <main>
-    <h2>Страница 2</h2>
-    <p>Содержимое страницы ==> 2 <==</p>
+    <h2>Страница 4</h2>
+    <p>Содержимое страницы ==> 4 <==</p>
+    <p>Станица создана сотрудником Junior</p>
 </main>
 <footer>Копирайт.</footer>
 </body>

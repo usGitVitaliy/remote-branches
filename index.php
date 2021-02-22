@@ -12,6 +12,7 @@
             <ul>
                 <li><a href="content/page-2.php">Страница 2</a></li>
                 <li><a href="content/page-3.php">Страница 3</a></li>
+                <li><a href="content/page-4-junior.php">Страница 4</a></li>
             </ul>
         </nav>
     </header>
